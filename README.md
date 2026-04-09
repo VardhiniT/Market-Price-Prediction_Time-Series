@@ -24,9 +24,6 @@ This is a **time series forecasting problem**, where historical stock price data
 Dataset: https://finance.yahoo.com/quote/TATAMOTORS.NS/history/
 Data from 2023-08-01 2024-07-31
 
-<img width="468" height="32" alt="image" src="https://github.com/user-attachments/assets/df2635c7-03a3-4968-877c-84efbe60dfe1" />
-
-<img width="468" height="28" alt="image" src="https://github.com/user-attachments/assets/9bd36b70-966f-47d3-b1a5-e6dd61c7b7c3" />
 
 ### Features in the dataset:
 
