@@ -1,4 +1,4 @@
-# 📈 Tata Motors Stock Price Forecasting - T Vardhini
+# 📈 Tata Motors Stock Price Forecasting - Time Series
 
 ---
 
